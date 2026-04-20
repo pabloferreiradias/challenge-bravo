@@ -1,6 +1,6 @@
 **Desafio Bravo**
 ----
-  API para conversão monetária. Sua moeda de lastro é USD e seus dados são atualizados diariamente.
+  API para conversão monetária. Sua moeda de lastro é USD e seus dados são atualizados diariamente. (Projeto realizado em 2020)
 
 * **Instalação**
 
